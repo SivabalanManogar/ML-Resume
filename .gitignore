@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+
+# Resume data and training materials may contain personal information.
+UpdatedResumeDataSet.csv
+*.pdf
+*.ipynb
+reqiurements.txt
